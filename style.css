@@ -208,7 +208,7 @@ input {
   gap: 20px;
 }
 
-.right-sidebar-heading{
+.right-sidebar-heading {
   font-size: 1.2rem;
 }
 
@@ -245,7 +245,30 @@ hr {
   border-radius: 10px;
   padding: 25px;
   box-shadow: 0 4px 10px rgb(90, 89, 89);
-    margin-top: -10px;
+  margin-top: -10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
+.trending-content{
+ margin-left: 15px;
+}
 
+.trending-content h3 {
+  font-weight: 400;
+}
+.trending-content p {
+  font-size: 14px;
+  color: rgb(90, 89, 89);
+}
+.content {
+  display: flex;
+}
+
+.content img {
+  width: auto;
+  height: 40px;
+  background-color: #facc15;
+  border-radius: 50%;
+}
