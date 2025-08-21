@@ -17,8 +17,9 @@ Includes a sidebar navigation, project cards, announcements, and trending sectio
 
 🎨 Responsive Design – Looks clean on different screen sizes.
 
-📸 Preview
-(images\admin-dashboard-ss.png)
+## 📸 Preview
+
+![Dashboard Screenshot](/images/admin-dashboard-ss.png)
 
 🛠️ Tech Stack
 
